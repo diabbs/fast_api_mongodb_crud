@@ -1,0 +1,4 @@
+fastapi[all]==0.88.0
+pymongo==3.5.1
+passlib[bcrypt]
+fastapi-jwt-auth[asymmetric]
